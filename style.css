@@ -1,0 +1,48 @@
+body{
+    background-image: url("assets/bg.jpeg");
+}
+
+#header{
+    margin: 0 auto;
+    width: 932px;
+    height: 315px;
+    background-image: url("assets/header.png");
+}
+
+#main{
+    margin: 0 auto;
+    width:70%;
+    height:100%;
+    background-image: url("assets/mainbg.jpg");
+}
+
+#buttons{
+    position: absolute;
+    top: 278;
+    left: 520;
+}
+
+
+.button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+  }
+
+  .buttonD{
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 12px;
+  }
