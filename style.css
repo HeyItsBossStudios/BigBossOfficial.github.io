@@ -1,19 +1,19 @@
 body{
-    background-image: url("assets/bg.jpeg");
+    background-image: url(" https://heyitsbossstudios.github.io/BigBossOfficial.github.io/assets/bg.jpeg");
 }
 
 #header{
     margin: 0 auto;
     width: 932px;
     height: 315px;
-    background-image: url("assets/header.png");
+    background-image: url(" https://heyitsbossstudios.github.io/BigBossOfficial.github.io/assets/header.png");
 }
 
 #main{
     margin: 0 auto;
     width:70%;
     height:100%;
-    background-image: url("assets/mainbg.jpg");
+    background-image: url(" https://heyitsbossstudios.github.io/BigBossOfficial.github.io/assets/mainbg.jpg");
 }
 
 #buttons{
