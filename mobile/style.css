@@ -1,6 +1,7 @@
 
 
 body{
+    font-size: 40;
     background-image: url(" https://heyitsbossstudios.github.io/BigBossOfficial.github.io/assets/bg.jpeg");
 }
 
@@ -14,7 +15,7 @@ body{
 #main{
     margin: 0 auto;
     width:70%;
-    height:100%;
+    height:50%;
     background-image: url(" https://heyitsbossstudios.github.io/BigBossOfficial.github.io/assets/mainbg.jpg");
 }
 
